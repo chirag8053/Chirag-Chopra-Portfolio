@@ -43,7 +43,7 @@ Feb 2024 – May 2024
   ---  
 
 ## **Projects**  
-Developed a DCF valuation model of Boat company
+Developed a DCF valuation model of Boat company (https://github.com/chirag8053/DCF-Valuation-of-Boat.git)
 - Conducted in-depth analysis of Balance Sheet, Income Statement, and Cash Flow Statement
 - Developed a DCF model by forecasting free cash flows and calculating Net Present Value (NPV)
 
